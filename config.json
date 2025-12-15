@@ -1,7 +1,7 @@
 {
   "loader": {
     "version": "1.1.0",
-    "download_url": "https://example.com/loader.exe"
+    "download_url": "ฟฟ"
   },
   "apps": [
     {
@@ -16,3 +16,4 @@
     }
   ]
 }
+
