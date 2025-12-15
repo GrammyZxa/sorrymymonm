@@ -25,11 +25,12 @@
       "download_url": "https://example.com/toolB.zip"
     },
      {
-      "id": "toolB",
-      "name": "Tool B",
+      "id": "toolc",
+      "name": "Tool c",
       "exe": "run.exe",
       "download_url": "https://example.com/toolB.zip"
     }
   ]
 }
+
 
