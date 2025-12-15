@@ -13,8 +13,14 @@
       "id": "toolB",
       "name": "Tool B",
       "download_url": "https://example.com/toolB.zip"
+    },
+    {
+      "id": "toolB",
+      "name": "Tool B",
+      "download_url": "https://example.com/toolB.zip"
     }
   ]
 }
+
 
 
