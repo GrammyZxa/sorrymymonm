@@ -1,26 +1,28 @@
 {
   "loader": {
+    "name": "My Auto Loader",
     "version": "1.0.0",
-    "download_url": "ฟฟ"
+    "update_url": "https://example.com/loader.exe"
   },
+
+  "ui": {
+    "title": "🚀 Auto Loader",
+    "width": 720,
+    "height": 560
+  },
+
   "apps": [
     {
       "id": "toolA",
       "name": "Tool A",
+      "exe": "toolA.exe",
       "download_url": "https://example.com/toolA.zip"
     },
     {
       "id": "toolB",
       "name": "Tool B",
-      "download_url": "https://example.com/toolB.zip"
-    },
-    {
-      "id": "toolB",
-      "name": "Tool B",
+      "exe": "run.exe",
       "download_url": "https://example.com/toolB.zip"
     }
   ]
 }
-
-
-
